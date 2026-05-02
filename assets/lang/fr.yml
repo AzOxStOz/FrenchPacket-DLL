@@ -1,0 +1,11 @@
+message.command.not_found: "§cCommande inconnue : {}"
+message.command.usage: "§cUsage : {}{} {}"
+message.prefix.changed: "§7[§fPacket§7] §aLe préfixe a été changé en : §e{}"
+message.bind.success: "§7[§fPacket§7] §a{} a été lié à : §e{}"
+message.bind.mod_not_found: "§cModule introuvable : {}"
+message.bind.key_not_found: "§cTouche inconnue : {}"
+message.help.header: "§7[§fPacket§7] §aCommandes disponibles :"
+message.help.item: "§e{}{} §7- {}"
+message.client.welcome: "§7[§fPacket§7] §aSalut, je suis là !"
+message.client.goodbye: "§7[§fPacket§7] §cBye bye !"
+
