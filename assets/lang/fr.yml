@@ -16,6 +16,11 @@ message.bind.mod_not_found: "§f§lPacket §7»§r §cModule introuvable : §f{0
 message.bind.key_not_found: "§f§lPacket §7»§r §cTouche introuvable : §f{0}"
 message.bind.success: "§f§lPacket §7»§r §aModule §f{0} §aassigné à §f{1}"
 
+command.unbind.description: "Retire le keybind d'un module"
+command.unbind.usage: "<module | all>"
+message.unbind.success: "§f§lPacket §7»§r §aKeybind retiré de §f{0}"
+message.unbind.all: "§f§lPacket §7»§r §aKeybind retiré de tous les modules"
+
 command.help.description: "Affiche la liste des commandes"
 command.help.usage: ""
 
