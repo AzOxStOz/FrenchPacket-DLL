@@ -16,6 +16,11 @@ message.bind.mod_not_found: "§f§lPacket §7»§r §cModule not found: §f{0}"
 message.bind.key_not_found: "§f§lPacket §7»§r §cKey not found: §f{0}"
 message.bind.success: "§f§lPacket §7»§r §aBound §f{0} §ato §f{1}"
 
+command.unbind.description: "Removes the keybind from a module"
+command.unbind.usage: "<module | all>"
+message.unbind.success: "§f§lPacket §7»§r §aUnbound §f{0}"
+message.unbind.all: "§f§lPacket §7»§r §aUnbound all modules"
+
 command.help.description: "Shows the list of commands"
 command.help.usage: ""
 
@@ -27,3 +32,10 @@ message.config.loaded: "§f§lPacket §7»§r §aConfig loaded: §f{0}"
 message.config.not_found: "§f§lPacket §7»§r §cConfig not found: §f{0}"
 message.config.list_empty: "§f§lPacket §7»§r §eNo configs in assets/configs/"
 message.config.list: "§f§lPacket §7»§r §6Configs: §f{0}"
+
+command.blockesp.description: "Add/remove custom blocks from BlockESP"
+command.blockesp.usage: "add <block> | remove <block> | list"
+message.blockesp.added: "§f§lPacket §7»§r §aAdded: §f{0}"
+message.blockesp.removed: "§f§lPacket §7»§r §eRemoved: §f{0}"
+message.blockesp.list_empty: "§f§lPacket §7»§r §7No custom blocks."
+message.blockesp.list: "§f§lPacket §7»§r §6Custom blocks: §f{0}"
