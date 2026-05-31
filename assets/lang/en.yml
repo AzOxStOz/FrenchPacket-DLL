@@ -39,3 +39,9 @@ message.blockesp.added: "§f§lPacket §7»§r §aAdded: §f{0}"
 message.blockesp.removed: "§f§lPacket §7»§r §eRemoved: §f{0}"
 message.blockesp.list_empty: "§f§lPacket §7»§r §7No custom blocks."
 message.blockesp.list: "§f§lPacket §7»§r §6Custom blocks: §f{0}"
+
+command.gamemode.description: "Changes your client-side gamemode"
+command.gamemode.usage: "<0/1/2/6 | s/c/a/sp>"
+message.gamemode.success: "§f§lPacket §7»§r §aGamemode set to: §6{0}"
+message.gamemode.invalid: "§f§lPacket §7»§r §cInvalid gamemode: §f{0}"
+
