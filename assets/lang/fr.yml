@@ -25,13 +25,14 @@ command.help.description: "Affiche la liste des commandes"
 command.help.usage: ""
 
 command.config.description: "Sauvegarde/charge les configs de modules"
-command.config.usage: "save <nom> | load <nom> | list"
+command.config.usage: "save <nom> | load <nom> | list | open | default"
 message.config.saved: "§f§lPacket §7»§r §aConfig sauvegardée : §f{0}"
 message.config.save_error: "§f§lPacket §7»§r §cImpossible d'écrire : §f{0}"
 message.config.loaded: "§f§lPacket §7»§r §aConfig chargée : §f{0}"
 message.config.not_found: "§f§lPacket §7»§r §cConfig introuvable : §f{0}"
 message.config.list_empty: "§f§lPacket §7»§r §eAucune config dans assets/configs/"
 message.config.list: "§f§lPacket §7»§r §6Configs : §f{0}"
+message.config.opened: "§f§lPacket §7»§r §aDossier config ouvert"
 
 command.blockesp.description: "Ajoute/retire des blocs custom dans BlockESP"
 command.blockesp.usage: "add <bloc> | remove <bloc> | list"
@@ -97,3 +98,6 @@ message.baritone.descend_limit: "§a[Baritone] Descend: limite atteinte."
 message.baritone.ascend_opening: "§a[Baritone] Ascend: ouverture trouvée, arrêt."
 message.baritone.descend_cavity: "§a[Baritone] Descend: cavité trouvée, arrêt."
 
+
+message.autofishing.calibrate: "§f§lPacket §7»§r §eAutoFishing : lance la canne à la main une fois pour calibrer"
+message.autofishing.calibrated: "§f§lPacket §7»§r §aAutoFishing : calibré, mode auto actif"

@@ -25,13 +25,14 @@ command.help.description: "Shows the list of commands"
 command.help.usage: ""
 
 command.config.description: "Save/load module configs"
-command.config.usage: "save <name> | load <name> | list"
+command.config.usage: "save <name> | load <name> | list | open | default"
 message.config.saved: "§f§lPacket §7»§r §aConfig saved: §f{0}"
 message.config.save_error: "§f§lPacket §7»§r §cCould not write: §f{0}"
 message.config.loaded: "§f§lPacket §7»§r §aConfig loaded: §f{0}"
 message.config.not_found: "§f§lPacket §7»§r §cConfig not found: §f{0}"
 message.config.list_empty: "§f§lPacket §7»§r §eNo configs in assets/configs/"
 message.config.list: "§f§lPacket §7»§r §6Configs: §f{0}"
+message.config.opened: "§f§lPacket §7»§r §aConfig folder opened"
 
 command.blockesp.description: "Add/remove custom blocks from BlockESP"
 command.blockesp.usage: "add <block> | remove <block> | list"
@@ -97,3 +98,6 @@ message.baritone.descend_limit: "§a[Baritone] Descend: limit reached."
 message.baritone.ascend_opening: "§a[Baritone] Ascend: opening found, stopping."
 message.baritone.descend_cavity: "§a[Baritone] Descend: cavity found, stopping."
 
+
+message.autofishing.calibrate: "§f§lPacket §7»§r §eAutoFishing: cast the rod manually once to calibrate"
+message.autofishing.calibrated: "§f§lPacket §7»§r §aAutoFishing: calibrated, auto mode active"
