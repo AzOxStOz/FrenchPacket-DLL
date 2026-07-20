@@ -50,6 +50,18 @@ command.playercoords.description: "Shows the coordinates of all players"
 command.playercoords.usage: ""
 message.playercoords.no_players: "§f§lPacket §7»§r §cNo players found."
 
+command.seed.description: "Shows the current world seed"
+command.seed.usage: ""
+message.seed.result: "§f§lPacket §7»§r §aWorld seed: §6"
+message.seed.unavailable: "§f§lPacket §7»§r §cSeed unavailable (not received yet)."
+
+command.xp.description: "Adds experience levels to the local player"
+command.xp.usage: "<amount>"
+message.xp.success: "§f§lPacket §7»§r §aExperience levels: §6"
+message.xp.no_player: "§f§lPacket §7»§r §cNot in-game."
+message.xp.usage_hint: "§f§lPacket §7»§r §cUsage: .xp <amount> (non-zero)."
+message.xp.no_attr: "§f§lPacket §7»§r §cLevel attribute unavailable (not in-game?)."
+
 message.baritone.unknown_command: "§cBaritone: unknown command '#{0}' (try #help)"
 message.baritone.usage_goto: "§cUsage: §f#goto <x> <z>  §7or§f  #goto <x> <y> <z>"
 message.baritone.goto_going: "§b[Baritone] §fGoing to ({0}, {1}, {2})"

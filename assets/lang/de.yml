@@ -50,6 +50,18 @@ command.playercoords.description: "Zeigt die Koordinaten aller Spieler"
 command.playercoords.usage: ""
 message.playercoords.no_players: "§f§lPacket §7»§r §cKeine Spieler gefunden."
 
+command.seed.description: "Zeigt den Seed der aktuellen Welt"
+command.seed.usage: ""
+message.seed.result: "§f§lPacket §7»§r §aWelt-Seed: §6"
+message.seed.unavailable: "§f§lPacket §7»§r §cSeed nicht verfügbar (noch nicht empfangen)."
+
+command.xp.description: "Fügt dem lokalen Spieler Erfahrungsstufen hinzu"
+command.xp.usage: "<anzahl>"
+message.xp.success: "§f§lPacket §7»§r §aErfahrungsstufen: §6"
+message.xp.no_player: "§f§lPacket §7»§r §cNicht im Spiel."
+message.xp.usage_hint: "§f§lPacket §7»§r §cVerwendung: .xp <anzahl> (ungleich null)."
+message.xp.no_attr: "§f§lPacket §7»§r §cStufen-Attribut nicht verfügbar (nicht im Spiel?)."
+
 message.baritone.unknown_command: "§cBaritone: Unbekannter Befehl '#{0}' (versuche #help)"
 message.baritone.usage_goto: "§cUmdrehung: §f#goto <x> <z>  §7oder§f  #goto <x> <y> <z>"
 message.baritone.goto_going: "§b[Baritone] §fGehe zu ({0}, {1}, {2})"
