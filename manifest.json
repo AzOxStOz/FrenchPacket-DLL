@@ -1,0 +1,45 @@
+﻿{
+    "schema":  1,
+    "updated_at":  "2026-07-31",
+    "clients":  [
+                    {
+                        "id":  "frenchpacket",
+                        "name":  "French Packet",
+                        "tagline":  "Full featured French utility client",
+                        "game":  "bedrock",
+                        "mc_version":  "1.26.34",
+                        "version":  "26.34",
+                        "file":  "FrenchPacket.dll",
+                        "sha256":  "0f2ad8d8fc51ddd5b47f5a7f5120db3775fde92441dbe9ba80fad0a5b9caa184",
+                        "artwork":  "art_frenchpacket.png",
+                        "crash_log":  "packetv2",
+                        "available":  true
+                    },
+                    {
+                        "id":  "solstice",
+                        "name":  "Solstice",
+                        "tagline":  "Lightweight performance client",
+                        "game":  "bedrock",
+                        "mc_version":  "1.26.34",
+                        "version":  "26.34",
+                        "file":  "Solstice.dll",
+                        "sha256":  "401d57a971f4452d759fd91d623736a078a77aa1e934c51a650ed7e107c8d28a",
+                        "artwork":  "art_solstice.png",
+                        "crash_log":  "solstice",
+                        "available":  true
+                    },
+                    {
+                        "id":  "horion",
+                        "name":  "Horion",
+                        "tagline":  "Classic module based client",
+                        "game":  "bedrock",
+                        "mc_version":  "1.26.34",
+                        "version":  "26.34",
+                        "file":  "Horion.dll",
+                        "sha256":  "02207a74ba56b6931be9f10e34dea7c4b0892cbd1073bfc11cf29f444dea0d10",
+                        "artwork":  "art_horion.png",
+                        "crash_log":  "horion",
+                        "available":  true
+                    }
+                ]
+}
