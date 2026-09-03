@@ -1,6 +1,6 @@
 ﻿{
     "schema":  1,
-    "updated_at":  "2026-08-28",
+    "updated_at":  "2026-09-03",
     "clients":  [
                     {
                         "id":  "frenchpacket",
@@ -10,7 +10,7 @@
                         "mc_version":  "1.26.45",
                         "version":  "26.45",
                         "file":  "FrenchPacket.dll",
-                        "sha256":  "e4ae10fdc8b54d55b68b42f4f6aebd4c39dc61bf0d113d9513211705204f671a",
+                        "sha256":  "a4927beb4d10b62d21bd5eca52c8d3e3b888b1b400bb9dd1576ab3cb2ca85311",
                         "artwork":  "art_frenchpacket.png",
                         "crash_log":  "packetv2",
                         "available":  true
@@ -20,10 +20,10 @@
                         "name":  "Solstice",
                         "tagline":  "Lightweight performance client",
                         "game":  "bedrock",
-                        "mc_version":  "1.26.34",
-                        "version":  "26.34",
+                        "mc_version":  "1.26.45",
+                        "version":  "26.45",
                         "file":  "Solstice.dll",
-                        "sha256":  "401d57a971f4452d759fd91d623736a078a77aa1e934c51a650ed7e107c8d28a",
+                        "sha256":  "48d353982b6cac5b201926a74b6553077bdb4858c1bc227b099e194288cc1f84",
                         "artwork":  "art_solstice.png",
                         "crash_log":  "solstice",
                         "available":  true
