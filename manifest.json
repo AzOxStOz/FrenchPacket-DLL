@@ -1,6 +1,6 @@
 ﻿{
     "schema":  1,
-    "updated_at":  "2026-09-03",
+    "updated_at":  "2026-09-14",
     "clients":  [
                     {
                         "id":  "frenchpacket",
@@ -10,7 +10,7 @@
                         "mc_version":  "1.26.45",
                         "version":  "26.45",
                         "file":  "FrenchPacket.dll",
-                        "sha256":  "a4927beb4d10b62d21bd5eca52c8d3e3b888b1b400bb9dd1576ab3cb2ca85311",
+                        "sha256":  "99c7ebe6c2f5dff5692acd7a79306ffee4cff885702be78261f90a1b25c4eb15",
                         "artwork":  "art_frenchpacket.png",
                         "crash_log":  "packetv2",
                         "available":  true
