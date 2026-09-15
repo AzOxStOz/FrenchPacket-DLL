@@ -1,16 +1,16 @@
 ﻿{
     "schema":  1,
-    "updated_at":  "2026-09-14",
+    "updated_at":  "2026-09-15",
     "clients":  [
                     {
                         "id":  "frenchpacket",
                         "name":  "French Packet",
                         "tagline":  "Full featured French utility client",
                         "game":  "bedrock",
-                        "mc_version":  "1.26.45",
-                        "version":  "26.45",
+                        "mc_version":  "1.26.51",
+                        "version":  "26.51",
                         "file":  "FrenchPacket.dll",
-                        "sha256":  "d8b9a9ffd2f4010c4c16cab30ca776183845ca881d2eefd490126f4142de422e",
+                        "sha256":  "88b95c87e14c4237f9ded2331f40a9c326ff471e4ecb488d265bd643ad515761",
                         "artwork":  "art_frenchpacket.png",
                         "crash_log":  "packetv2",
                         "available":  true
