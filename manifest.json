@@ -33,10 +33,10 @@
                         "name":  "Horion",
                         "tagline":  "Classic module based client",
                         "game":  "bedrock",
-                        "mc_version":  "1.26.34",
-                        "version":  "26.34",
+                        "mc_version":  "1.26.52",
+                        "version":  "26.52",
                         "file":  "Horion.dll",
-                        "sha256":  "02207a74ba56b6931be9f10e34dea7c4b0892cbd1073bfc11cf29f444dea0d10",
+                        "sha256":  "ef2223e1ba589f0cd166b5117f66a37f2375a7e99ead835789171424c3d77187",
                         "artwork":  "art_horion.png",
                         "crash_log":  "horion",
                         "available":  true
