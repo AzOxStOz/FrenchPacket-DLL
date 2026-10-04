@@ -1,6 +1,6 @@
 ﻿{
     "schema":  1,
-    "updated_at":  "2026-09-27",
+    "updated_at":  "2026-10-05",
     "clients":  [
                     {
                         "id":  "frenchpacket",
@@ -39,6 +39,19 @@
                         "sha256":  "ef2223e1ba589f0cd166b5117f66a37f2375a7e99ead835789171424c3d77187",
                         "artwork":  "art_horion.png",
                         "crash_log":  "horion",
+                        "available":  true
+                    },
+                    {
+                        "id":  "boost",
+                        "name":  "Boost",
+                        "tagline":  "Boost V4 utility client",
+                        "game":  "bedrock",
+                        "mc_version":  "1.26.52",
+                        "version":  "26.52",
+                        "file":  "Boost.dll",
+                        "sha256":  "6aa54406dfdd4a41e104da6bebe0e7191ba250c7f39c121cf509fa4d0d75d670",
+                        "artwork":  "art_boost.png",
+                        "crash_log":  "boost",
                         "available":  true
                     }
                 ]
