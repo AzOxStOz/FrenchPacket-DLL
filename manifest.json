@@ -1,6 +1,6 @@
 ﻿{
     "schema":  1,
-    "updated_at":  "2026-10-05",
+    "updated_at":  "2026-10-16",
     "clients":  [
                     {
                         "id":  "frenchpacket",
@@ -23,7 +23,7 @@
                         "mc_version":  "1.26.52",
                         "version":  "26.52",
                         "file":  "Solstice.dll",
-                        "sha256":  "dd3a24956c8b362dae7871234d47cfff98b5c967506962a7c1c5857497adb133",
+                        "sha256":  "b7f88e56d11b1efe1593fd1ca2dc85a3f14675cd25ecb4c17817a19e177a2e65",
                         "artwork":  "art_solstice.png",
                         "crash_log":  "solstice",
                         "available":  true
@@ -36,7 +36,7 @@
                         "mc_version":  "1.26.52",
                         "version":  "26.52",
                         "file":  "Horion.dll",
-                        "sha256":  "ef2223e1ba589f0cd166b5117f66a37f2375a7e99ead835789171424c3d77187",
+                        "sha256":  "1ec3dcc83eaa34e7a2dfb0b07212a4f24b5e3ad107471776a1eecabcad84bb86",
                         "artwork":  "art_horion.png",
                         "crash_log":  "horion",
                         "available":  true
@@ -49,7 +49,7 @@
                         "mc_version":  "1.26.52",
                         "version":  "26.52",
                         "file":  "Boost.dll",
-                        "sha256":  "6aa54406dfdd4a41e104da6bebe0e7191ba250c7f39c121cf509fa4d0d75d670",
+                        "sha256":  "e60af2503a347d7a6965320804e49f0d51174cc7f0b41beae7536766e365f515",
                         "artwork":  "art_boost.png",
                         "crash_log":  "boost",
                         "available":  true
